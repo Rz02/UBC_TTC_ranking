@@ -1,0 +1,18 @@
+{"players": [
+    {
+        "result": [
+            false,
+            true
+        ],
+        "name": "Rocky",
+        "member": true
+    },
+    {
+        "result": [
+            true,
+            true
+        ],
+        "name": "Wally",
+        "member": false
+    }
+]}

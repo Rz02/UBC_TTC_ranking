@@ -1,0 +1,14 @@
+{
+  "players" : [
+    {
+      "name" : "Rocky",
+      "member" : true,
+      "result" : [false, true]
+    },
+    {
+      "name" : "Wally",
+      "member" : false,
+      "result" : [true, true]
+    }
+  ]
+}
