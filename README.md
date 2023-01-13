@@ -1,4 +1,4 @@
-# project_for_CPSC210
+# UBC TTC Ranking System
 
 This is a desktop application that can help ranking players by their informations like accumulated scores, membership.
 
